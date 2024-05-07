@@ -1,0 +1,5 @@
+version: 2
+
+macros:
+  - name: transform_room_type
+    description: 'Returns a simplified version of the room type based on its input'
